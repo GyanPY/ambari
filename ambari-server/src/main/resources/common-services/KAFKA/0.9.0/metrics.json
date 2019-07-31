@@ -170,7 +170,7 @@
               "pointInTime": true,
               "temporal": true
             },
-            "metricskafka.controller.KafkaController.OfflinePartitionsCount ": {
+            "metrics/kafka/controller/KafkaController/OfflinePartitionsCount": {
               "metric": "kafka.controller.KafkaController.OfflinePartitionsCount ",
               "pointInTime": true,
               "temporal": true
